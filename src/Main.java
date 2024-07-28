@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MainApp {
     public static Serializable main(String[] args) {
-        Scanner sc +new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Введите первое число");
         int a = sc.nextInt();
         System.out.println("ведите второе число");
